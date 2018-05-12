@@ -1,0 +1,28 @@
+_repo: Facts-for-the-Kind-Hearted-of-England-As-to-the-Wretchedness-of-the-Irish-Peasantry-and-the-M__25170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Jasper W.
+    gutenberg_agent_id: '31119'
+    url: http://www.gutenberg.org/2009/agents/31119
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish -- England -- Economic conditions'
+- !lcsh 'Poor -- Ireland'
+- !lcsh 'Ireland -- Rural conditions'
+- !lcc 'HD'
+title: 'Facts for the Kind-Hearted of England!
+
+  As to the Wretchedness of the Irish Peasantry, and the Means for their Regeneration'
+url: http://www.gutenberg.org/ebooks/25170
